@@ -1,0 +1,50 @@
+
+*{
+    
+    background: linear-gradient();
+    color: rgb(24, 167, 255);
+   
+    text-align: center;
+    
+    padding: 0;
+    margin: 0;
+
+}
+
+
+.h1cont{
+    background-color: rgb(201, 233, 244);
+    max-width: 850px;
+    margin: auto;
+    min-height: 170vh;
+}
+
+.kisize{
+font-size: 1.25rem;
+
+}
+
+
+
+
+.h1o{
+float: left;
+ margin: 5px;
+ text-align: left;
+}
+
+.h2o{
+float: right;
+ margin: 5px;
+ text-align: right;
+}
+
+.img1{
+float: left;
+margin: 5px;
+}
+.img2{
+float: right;
+margin: 5px;
+}
+
